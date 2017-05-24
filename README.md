@@ -1,6 +1,9 @@
 # simple_and_naive_tensorflow
 反向传播算法的简单实现，对照了tf的api
 
+- 只支持标量计算
+- 只实现了几个运算符
+
 test.py
 ```python
 import simple_and_naive_tensorflow as tf
