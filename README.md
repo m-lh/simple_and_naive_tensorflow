@@ -4,6 +4,7 @@
 
 - 只支持标量计算
 - 只实现了几个运算符
+- 只在Python 3.5.2 win32测试
 
 test.py
 ```python
