@@ -1,0 +1,2 @@
+# simple_and_naive_tensorflow
+反向传播算法的简单实现，对照了tf的api
